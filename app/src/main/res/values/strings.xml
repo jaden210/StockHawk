@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">Stock Hawk</string>
+    <string name="title_activity_my_stocks_detail" translatable="false">MyStocksDetailActivity</string>
+    <string name="action_example" translatable="false">Example action</string>
+
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="new_search" translatable="true">Symbol Search</string>
+    <string name="content_test" translatable="true">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">TSLA</string>
+    <string name="no_network" translatable="true">This app requires an internet connection..</string>
+    <string name="widget_title" translatable="true">Your Stocks</string>
+    <string name="invalid_symbol" translatable="true">Invalid Symbol</string>
+    <string name="input_prefill" translatable="false"></string>
+    <string name="empty_message" translatable="true">Let\'s add some Stocks!</string>
+    <string name="old_data" translatable="true">Warning: This is old data! Check your internet connection.</string>
+    <string name="saved_stock" translatable="true">This stock has already been saved</string>
+
+    //content Descriptions
+    <string name="add_stock" translatable="true">Add a stock</string>
+    <string name="action_change_units" translatable="true">Change Units</string>
+    <string name="nav_home" translatable="true">Go Back To Stocks Screen</string>
+</resources>
