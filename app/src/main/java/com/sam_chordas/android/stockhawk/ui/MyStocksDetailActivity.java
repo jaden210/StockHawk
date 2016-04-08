@@ -68,8 +68,6 @@ public class MyStocksDetailActivity extends AppCompatActivity implements LoaderM
         getLoaderManager().initLoader(CURSOR_LOADER_ID, null, this);
 
         tvPrice = (TextView) findViewById(R.id.tvPrice);
-        String tvPriceDescription = "The Stock price for " + quoteSymbol + " is " + tvPrice;
-        tvPrice.setContentDescription(tvPriceDescription);
         tvChangePercent = (TextView) findViewById(R.id.tvChangePercent);
         lineChartView = (LineChartView) findViewById(R.id.linechart);
     }
